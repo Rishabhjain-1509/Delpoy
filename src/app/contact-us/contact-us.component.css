@@ -1,0 +1,41 @@
+.color1{
+    color: rgba(236, 236, 236, 0.8);
+    
+}
+
+.color2{
+    color: rgba(9, 9, 9, 0.85);
+
+}
+
+.bcolor1{
+    background-color: rgba(9, 9, 9, 0.85);
+    border-radius: 5px 20px 5px; 
+    margin-top: 15px;
+}
+
+.bcolor2{
+    background-color: rgba(236, 236, 236, 0.8);
+    border-radius: 5px 20px 5px; 
+    margin-top: 15px;
+}
+
+.title{
+    margin-top: 20px;
+    font-size:18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.subtitle{
+    font-size:15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.contain{
+    font-size:15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:justify;
+    margin-top: 25px;
+}
